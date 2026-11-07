@@ -1,0 +1,42 @@
+# AI-Powered Study Assistant
+
+## About the Project
+The AI-Powered Study Assistant is a Python-based application that helps students learn more effectively using Artificial Intelligence.
+
+## Features
+- Explain any topic in simple language.
+- Generate short study notes.
+- Create exam-oriented questions.
+- Generate multiple-choice questions (MCQs).
+- Ask questions using an AI chatbot.
+
+## Technologies Used
+- Python
+- Streamlit
+- Google Gemini AI
+- Google GenAI API
+
+## Installation
+
+Install the required libraries:
+
+pip install -r requirements.txt
+
+## Run the Application
+
+streamlit run app.py
+
+## How to Use
+1. Enter your Gemini API key.
+2. Select the required study tool.
+3. Enter your topic or question.
+4. Generate AI-powered learning content.
+
+## Learning Outcomes
+- Learned to integrate AI into a Python application.
+- Explored Generative AI tools.
+- Practised Python application development.
+- Built a simple AI-powered mini project.
+
+## Developed For
+Codomax Digital – AI & Python Internship
